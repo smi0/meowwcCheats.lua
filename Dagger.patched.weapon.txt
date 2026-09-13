@@ -1,0 +1,15 @@
+// Revised Dagger Combat Profile
+{
+  "weapon_id": "dagger_v2_rebalanced",
+  "combat_mechanics": {
+    "attack_speed_multiplier": 1.2,
+    "frame_data": {
+      "startup_frames": 4,
+      "active_frames": 3,
+      "recovery_frames": 7,
+      "exhaustion_frames": 5
+    },
+    "movement_penalty_on_hit": 0.15,
+    "is_cancelable": false
+  }
+}
